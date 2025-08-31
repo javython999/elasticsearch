@@ -6,3 +6,8 @@
 ## [Elasticsearch의 기본 용어 정리](docs/2-5.md)
 ## [인덱스 생성하기, 매핑 정의하기, 도큐먼트 삽입하기](docs/2-6.md)
 ## [도큐먼트 저장, 조회, 수정, 삭제하기](docs/2-7.md)
+## [단어의 순서가 바뀌어도 검색이 가능하다?!](docs/3-1.md)
+## [역인덱스(inverted index)](docs/3-2.md)
+## [애널라이저(Analyzer)](docs/3-3.md)
+## [Elasticsearch에 기본값으로 설정되어있는 애널라이저(Analyzer)](docs/3-4.md)
+## [애널라이저(Analyzer)가 토큰을 어떻게 나누는지 확인하는 방법](docs/3-5.md)
