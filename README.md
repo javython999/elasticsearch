@@ -11,3 +11,8 @@
 ## [애널라이저(Analyzer)](docs/3-3.md)
 ## [Elasticsearch에 기본값으로 설정되어있는 애널라이저(Analyzer)](docs/3-4.md)
 ## [애널라이저(Analyzer)가 토큰을 어떻게 나누는지 확인하는 방법](docs/3-5.md)
+## [대소문자 구분없이 검색하는 방법(lowercase)](docs/3-6.md)
+## [검색할 때 필요없는 HTML 태그 제거하기(html_strip)](docs/3-7.md)
+## [검색할 때 필요없는 불용어(a, an, the, or, but) 제거하기(stop)](docs/3-8.md)
+## [단어의 형태(-ed, -ing, -s 등)에 상관없이 검색하는 방법(stemmer)](docs/3-9.md)
+## [동의어로 검색하는 방법(synonym)](docs/3-10.md)
