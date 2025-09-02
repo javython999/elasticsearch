@@ -16,3 +16,6 @@
 ## [검색할 때 필요없는 불용어(a, an, the, or, but) 제거하기(stop)](docs/3-8.md)
 ## [단어의 형태(-ed, -ing, -s 등)에 상관없이 검색하는 방법(stemmer)](docs/3-9.md)
 ## [동의어로 검색하는 방법(synonym)](docs/3-10.md)
+## [한글(korean)이 제대로 검색되지 않는 현상](docs/4-1.md)
+## [Nori Analyzer를 활용해 한글(korean)이 제대로 검색되게 만들기](docs/4-2.md)
+## [한글(korean)과 영어(english)가 섞인 글을 검색 가능하게 만들기](docs/4-3.md)
