@@ -19,3 +19,6 @@
 ## [한글(korean)이 제대로 검색되지 않는 현상](docs/4-1.md)
 ## [Nori Analyzer를 활용해 한글(korean)이 제대로 검색되게 만들기](docs/4-2.md)
 ## [한글(korean)과 영어(english)가 섞인 글을 검색 가능하게 만들기](docs/4-3.md)
+## [매핑(mapping)이란? / 데이터 타입(data type)](docs/5-1.md)
+## [매핑(mapping)의 특이한 특징(null 허용, Array 허용)](docs/5-2.md)
+## [저장할 데이터에 맞게 매핑 정의하기](docs/5-3.md)
