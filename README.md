@@ -22,3 +22,7 @@
 ## [매핑(mapping)이란? / 데이터 타입(data type)](docs/5-1.md)
 ## [매핑(mapping)의 특이한 특징(null 허용, Array 허용)](docs/5-2.md)
 ## [저장할 데이터에 맞게 매핑 정의하기](docs/5-3.md)
+## [검색 키워드가 포함된 데이터를 조회하고 싶을 때(match)](docs/6-1.md)
+## [특정 값과 정확하게 일치하는 데이터를 조회하고 싶을 때(term, terms)](docs/6-2.md)
+## [2가지 이상의 조건을 만족시키는 데이터를 조회하고 싶을 때(bool: filter, must)](docs/6-3.md)
+## [filter와 must 구분해서 사용하기](docs/6-4.md)
