@@ -1,0 +1,38 @@
+{
+  "analysis": {
+    "filter": {
+      "products_synonyms": {
+        "type": "synonym",
+        "synonyms": [
+          "samsung, 삼성",
+          "apple, 애플",
+          "노트북, 랩탑, 컴퓨터, computer, laptop, notebook",
+          "아이폰 iphone",
+          "맥북, 맥, macbook, mac"
+        ]
+      }
+    },
+    "analyzer": {
+      "products_name_analyzer": {
+        "char_filter": [],
+        "tokenizer": "nori_tokenizer",
+        "filter": [
+          "nori_part_of_speech",
+          "nori_readingform",
+          "lowercase",
+          "products_synonyms"
+        ]
+      },
+      "products_description_analyzer": {
+        "char_filter": ["html_strip"],
+        "tokenizer": "nori_tokenizer",
+        "filter": ["nori_part_of_speech", "nori_readingform", "lowercase"]
+      },
+      "products_category_analyzer": {
+        "char_filter": [],
+        "tokenizer": "nori_tokenizer",
+        "filter": ["nori_part_of_speech", "nori_readingform", "lowercase"]
+      }
+    }
+  }
+}
